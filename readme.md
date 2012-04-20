@@ -1,4 +1,4 @@
-# Using Custom Middleware to Authentic Users.
+# Using Custom Middleware to Authentic Users
 
 routes.json
 
