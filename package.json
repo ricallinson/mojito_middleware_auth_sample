@@ -1,0 +1,14 @@
+{
+    "name": "mojito_auth_middleware",
+    "description": "",
+    "version": "0.0.1",
+    "author": {
+        "name": "Richard S Allinson",
+        "email": "nobody@yahoo-inc.com"
+    },
+    "yahoo": {
+        "mojito": {
+            "version": "*"
+        }
+    }
+}
